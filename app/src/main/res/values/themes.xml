@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.PetNote_Tv" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>
